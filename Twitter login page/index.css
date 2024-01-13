@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@800&display=swap');
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    overflow: hidden;
+}
+
+.big-form-div {
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.second-div {
+    display: flex;
+}
+
+.image {
+    width: 67vw;
+    height: 74vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(./images/Screenshot\ 2023-11-29\ 104042.png);
+    margin-top: 82px;
+}
+
+.login-page {
+
+}
+
+.bi-twitter-x {
+    color: #DADADA;
+    position: relative;
+    top: 166px;
+    left: 36px;
+    font-size: 38px;
+    display: block;
+}
+
+.Happening {
+    display: inline;
+    color: #DADADA;
+    font-family: 'Archivo', sans-serif;
+    font-size: 64px;
+    position: relative;
+    left: 36px;
+    top: 225px;
+}
+
+.join-twitter {
+    color: #DADADA;
+    font-family: 'Archivo', sans-serif;
+    position: relative;
+    left: 36px;
+    top: 265px;
+}
+
+.google-login-btn {
+    padding: 13px 110px;
+    font-family: 'Archivo', sans-serif;
+    border-radius: 30px;
+    position: relative;
+    left: 36px;
+    top: 290px;
+}
+
+.phone-or-email-btn {
+    padding: 13px 85px;
+    font-family: 'Archivo', sans-serif;
+    border-radius: 30px;
+    position: relative;
+    left: 36px;
+    top: 310px;
+}
+
+.first-p {
+    color: #706e6e;
+    position: relative;
+    left: 36px;
+    top: 330px;
+    font-size: 14px;
+}
+
+span {
+    color: #6d84a5;
+}
+
+h5 {
+    color: #beb9b9;
+    position: relative;
+    top: 350px;
+    left: 36px;
+    font-family: 'Archivo', sans-serif;
+}
+
+.Log-in {
+    color: #597B9C;
+    position: relative;
+    left: 203px;
+    top: 333px;
+    font-size: 12.5px;
+    font-family: 'Archivo', sans-serif;
+    text-decoration: none;
+}
+
+.third-div {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    width: 96vw;
+    margin-left: 26px;
+}
+
+.third-div a {
+    color: #8a8686;
+    text-decoration: none;
+    font-family: 'Archivo', sans-serif;
+    font-size: 11px;
+}
+
+.twitter-inc {
+    color: #8a8686;
+    text-decoration: none;
+    font-family: 'Archivo', sans-serif;
+    font-size: 11px;
+    position: relative;
+    left: 580px;
+    top: 8px;
+}
